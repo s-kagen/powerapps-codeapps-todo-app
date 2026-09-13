@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "appId": "11e13d23-0f99-4c4c-a702-0e1afa26d57f",
+  "appDisplayName": "ToDo管理アプリ",
+  "region": "prod",
+  "environmentId": "17423f17-edb6-e0b7-b168-1b149c4b4509",
+  "description": " ",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {
+    "860b923c-bb22-4a5c-9dfe-10101922843c": {
+      "id": "/providers/Microsoft.PowerApps/apis/shared_todo",
+      "displayName": "Microsoft To-Do (Business)",
+      "dataSources": [
+        "todo"
+      ],
+      "dataSets": {}
+    }
+  },
+  "databaseReferences": {}
+}
