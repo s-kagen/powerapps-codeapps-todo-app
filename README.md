@@ -61,7 +61,7 @@ Power Apps Code Apps で Microsoft To Do コネクターをデータソースと
 
 ## スクリーンショット
 
-images/app-dashboard.png
+![タスク管理ダッシュボード](images/app-dashboard
 
 ## 技術構成
 
